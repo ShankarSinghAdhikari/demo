@@ -1,6 +1,6 @@
 # demo-
 This is my Git Repo
 <br>
-we can use some html tags in readme
+<h1>we can use some html tags in readme<h1/>
 <br>
 Author - shankar singh
